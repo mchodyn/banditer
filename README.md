@@ -1,2 +1,2 @@
 # banditer
-App connecting musicients with bands
+App connecting musicians with bands
